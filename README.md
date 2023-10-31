@@ -1,11 +1,11 @@
 # BitaxeBox
 Fichiers STL pour impression d'une box pour le [Bitaxe](https://github.com/skot/bitaxe) 
 
+## Vidéo
+[Vidéo du proto](https://www.youtube.com/shorts/Va711DKYO2Q)
 
-
-![IMG_20231021_142756](https://github.com/nico2511/BitaxeBox/assets/62502164/02335949-9df4-49ce-9644-e28f907cca1b)
-![IMG_20231021_142726](https://github.com/nico2511/BitaxeBox/assets/62502164/3460df2d-8789-4abf-b884-6e4b503229dc)
-
+## Image
+![image](https://github.com/nico2511/BitaxeBox/blob/main/Pictures/Final/IMG_20231021_142720.jpg)
 
 ## En supplément
 - [ARCTIC F8 PWM - 80 mm](https://www.amazon.fr/dp/B08S7MTW8V?psc=1&ref=ppx_yo2ov_dt_b_product_details)
